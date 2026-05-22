@@ -10,3 +10,14 @@ git switch branch
 git branch dev
 git remote -v
 git status
+
+== i am change this local i want to change this github====
+
+git status
+
+  11 git remote add origin https://github.com/deepesh12330/free-tocken-1.git
+  12 git status
+  13 git remote -v
+  14 git remote set-url origin https://deepesh12330/free-tocken-1.git
+  15 git remote -v
+  16 git push origin master
